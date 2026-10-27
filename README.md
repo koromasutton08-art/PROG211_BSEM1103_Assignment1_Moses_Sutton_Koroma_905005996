@@ -189,7 +189,7 @@ git remote add origin YOUR_GITHUB_REPOSITORY_URL
 git push -u origin main
 ```
 
-Replace YOUR_GITHUB_REPOSITORY_URL with the URL of your own GitHub repository. Do not run the git remote add command again if you have already configured the repository remote.
+
 
 13. Academic Note
 
